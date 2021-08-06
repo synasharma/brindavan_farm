@@ -1,0 +1,140 @@
+body
+{
+    background-color:#fffad4;
+    text-align:center;
+    font-family: 'Secular One', sans-serif;
+    font-weight:500px;
+}
+
+.one
+{
+    font-family: 'Secular One', sans-serif !important;
+}
+img
+{
+    width:500px;
+    height:500px;
+    padding:50px;
+}
+
+.footer
+{
+    background-color:green;
+    width:100%;
+    position:fixed;
+    bottom:0;
+    line-height:2.5;
+    font-size:15px;
+    color:white;
+    font-weight:bold;
+}
+
+.next
+{
+    background-color:green !important;
+    font-size:20px !important;
+    color:white !important;
+}
+
+
+#im1,#im2,#im3,#im4,#im5,#im6,#im7,#im8,#im9,#im10,#im11
+{
+    width:375px;
+    height:320px;
+  
+}
+
+.pro1,.pro2,.pro3,.pro4,.pro5,.pro6,.pro7,.pro8,.pro9,.pro10,.pro11
+{
+    width:300px;
+    height:460px;
+    border-radius:20px;
+    padding:2px;
+    
+   
+}
+
+
+
+
+.navbar-inverse
+{
+    background-color:green;
+    font-weight: bold;
+}
+/*#cce98c*/
+
+a
+{
+color:white !important;
+}
+
+.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8,.b9,.b10,.b11
+{
+    width:45px;
+    height:30px;
+}
+
+#qty
+{
+    width:90px;
+    height:30px;
+}
+
+#mango
+{
+    width:135px;
+    height:30px;
+}
+
+#myslide1
+{
+    background-color:rgb(95, 190, 95);
+}
+
+.navbar-inverse two
+{
+
+    background-color:green;
+   font-weight:100px;
+    width:100%;
+}
+/*#cce98c*/
+
+a
+{
+color:white !important;
+}
+
+.cart
+{
+    float:right;
+    width:175px;
+    height:75px;
+    background-color:green;
+    color:white;
+    padding:5px;
+    font-size:20px;
+    border-radius:5px;
+    margin-top:-50px;
+    
+}
+
+.cart .badge {
+    position: absolute;
+    top: -10px;
+  left: -10px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background: red;
+    color: white;
+  }
+
+  .cone,.ctwo
+  {
+      background-color:green;
+      border:none;
+      width:35px;
+      height:30px;
+  }
+
